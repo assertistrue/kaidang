@@ -1,0 +1,2 @@
+# kaidang
+Typescript helloworlding
